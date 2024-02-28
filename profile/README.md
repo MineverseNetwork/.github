@@ -1,5 +1,5 @@
 
-![](https://media.discordapp.net/attachments/929171373635534928/1191457107107659836/Mineverse_Network_GitHub.png)
+![](https://media.discordapp.net/attachments/929171373635534928/1191457107107659836/Mineverse_Network_GitHub.png?ex=65ef55e6&is=65dce0e6&hm=afcf20afdf6bd5aee02587b51c0ff580ae23dbd8b4cec1c777e82b3aad9da2d0&=&format=webp&quality=lossless&width=1191&height=670)
 
 ## 👋 Kdo jsme?
 
