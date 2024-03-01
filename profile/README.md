@@ -3,7 +3,7 @@
 
 ## 👋 Kdo jsme?
 
-*Vítejte u nás na GitHubu! My jsme Mineverse, Minecraft server, který si zakládá především na kvalitě a originalitě. Náš server je zaměřený na propracovaný Fantasy RPG Factions. Pro co nejdokonalejší dosažení naší unikátní vize si vyvíjíme všechen potřebný software na míru. Zde se o tomto softwaru a naší infrastruktuře můžete dozvědět více.*
+*Vítejte u nás na GitHubu! My jsme Mineverse, Minecraft server, který si zakládá především na kvalitě a originalitě. Náš server je zaměřený na propracovaný Fantasy RPG Factions. Pro co nejdokonalejší dosažení naší unikátní vize si v rámci možností vyvíjíme všechen potřebný software na míru. Zde se o tomto softwaru a naší infrastruktuře můžete dozvědět více.*
 
 ### 🚧 Server je ve vývoji 🚧
 
