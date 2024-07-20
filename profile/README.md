@@ -31,7 +31,7 @@
 **Node #2** - *Webové a ostatní služby + zálohy*
 - **CPU**: `2x` Intel Xeon L5640
 - **RAM**: 128 GB DDR3
-- **SSD**: `4x` 2 TB SAS
+- **HDD**: `4x` 2 TB SAS
 
 ## 💬 Kontakt
 - **Web**: https://mineverse.cz
