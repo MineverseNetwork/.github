@@ -23,12 +23,17 @@
 
 ## 🌐 Infrastruktura
 
-**Node #1** - *Development & Testing*
+**Node #1** - *Minecraft servery*
 - **CPU**: Ryzen 7 5700G
 - **RAM**: 128 GB DDR4
 - **SSD**: 1 TB NVMe
 
+**Node #2** - *Webové a ostatní služby + zálohy*
+- **CPU**: `2x` Intel Xeon L5640
+- **RAM**: 128 GB DDR3
+- **SSD**: `4x` 2 TB SAS
+
 ## 💬 Kontakt
-- **Web**: https://www.mineverse.cz (brzy)
-- **Discord**: https://discord.mineverse.cz (brzy)
+- **Web**: https://mineverse.cz
+- **Discord**: https://discord.mineverse.cz (zatím pouze na pozvánku)
 - **Email**: vedeni@mineverse.cz (odpověď do 48h)
