@@ -35,5 +35,6 @@
 
 ## 💬 Kontakt
 - **Web**: https://mineverse.cz
-- **Discord**: https://discord.mineverse.cz (zatím pouze na pozvánku)
-- **Email**: vedeni@mineverse.cz (odpověď do 48h)
+- **Discord**: https://discord.mineverse.cz (zatím pouze na individuální pozvání)
+- **Email**: vedeni@mineverse.cz (odpověď maximálně do 48h)
+- Nebo můžete přímo kontaktovat člena Vedení skrze Discord: `@marek_p` nebo `@marekio`.
